@@ -1,0 +1,2 @@
+# rustlets
+trying out rust
